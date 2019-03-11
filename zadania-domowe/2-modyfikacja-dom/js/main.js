@@ -1,3 +1,4 @@
+$('.btn1').css({'background-color': 'yellow'});
 $(function() {
   $('.btn').click(function() {
     $('p:last').insertBefore('p:first');
