@@ -1,18 +1,18 @@
 /* $(function() {
     let paragrafy = $('p');
 
-    // paragrafy.text('nowy tekst'); // we wszystkich paragrafach wstawi nowy tekst
+    paragrafy.text('nvgklxgjkd tekst'); // we wszystkich paragrafach wstawi nowy tekst
 
-    // console.log(paragrafy.text()); // puty text() to wyświetla teksty z paragrafów
+    console.log(paragrafy.text()); // puty text() to wyświetla teksty z paragrafów
 
-    // $('span').html('<a href="a">Teraz link</a>'); //zamienia nam tekst na link
-
-
-})
+    $('span').html('<a href="a">Teraz link</a>'); //zamienia nam tekst na link
 
 
-//dodawanie treści
-$(function() {
+}) */
+
+
+//dodawanie treści/* 
+/* $(function() {
     let paragrafy = $('p');
 
     $('span').prepend('Prependujemy tekst!                   '); // rodzeństwo, jak nie ma znacznika p
@@ -27,14 +27,14 @@ $(function() {
     $('#naglowek-1').css('background-color', 'yellow'); // nada kolor tla dla nagłówek-1
     $('#naglowek-1').css({color: 'red', 'text-decoration': 'underline'});
 
-    //dla input nie działa innetHTML
+    //dla input nie działa innerHTML
 
     $('input#input-value').val('Łaaaaaał'); // ustawiamy wartość w input
 
     //są też klasy, dodawanie, usuwanie - prezentacja
-})
+}) */
 
- */
+
 
 
 
@@ -43,8 +43,8 @@ $(function() {
 
     $('#par-container').find('.paragraf').css('background-color', 'red'); // wyszukuje wszystkie p w divie i dokonuje zmian
 
-})
- */
+}) */
+
 
 
 //metoda each
